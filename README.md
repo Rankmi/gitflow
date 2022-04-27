@@ -9,7 +9,7 @@ for [DataSift's HubFlow branching model](http://datasift.github.com/gitflow/), w
 Installation
 ------------
 
-1. `git clone git@github.com:datasift/gitflow.git`
+1. `git clone git@github.com:Rankmi/gitflow.git`
 2. `cd gitflow`
 3. `sudo ./install.sh`
 
@@ -27,10 +27,8 @@ Getting Started
 
 See our tutorial website to learn more about the [GitFlow](http://datasift.github.com/gitflow/IntroducingGitFlow.html) branching model and [how to use the HubFlow tools](http://datasift.github.com/gitflow/GitFlowForGitHub.html).
 
-Changelog
+[Changelog](Changes.mdown)
 ---------
-
-To see what's new in each release, see our [Changelog](http://datasift.github.com/gitflow/ChangeLog.html).
 
 License Terms
 -------------

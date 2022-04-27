@@ -1,3 +1,11 @@
+1.5.6:
+-----
+Release date: **2022/02/04**
+
+* Updated to latest version 1.5.3 from [upstream](https://github.com/datasift/gitflow).
+
+* Removed shFlags submodule and added it as a [standalone file](hubflow-shFlags).
+
 0.4.2:
 -----
 Release date: **not yet**
